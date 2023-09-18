@@ -1,0 +1,8 @@
+Librarys:
+    Pillow
+    String
+    Random
+
+Fonts:
+    Melinda script.ttf
+    RobotoMono-Thin.ttf
