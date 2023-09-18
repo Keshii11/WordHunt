@@ -50,6 +50,3 @@ The Word Hunt puzzles have the following characteristics for each difficulty lev
 2. It creates a grid of the specified size and fills it with random letters.
 3. The words are inserted into the grid randomly in valid positions (following the specified directions) without overlapping with each other.
 4. The final grid with the hidden words is displayed as an image using the Python Imaging Library (PIL) with the appropriate font and alignment.
-
-#### Video Demo
- https://youtu.be/aiRUsvl2-cI
